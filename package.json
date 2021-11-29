@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/normanrs/aetna_dev1_challenge#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "jest": "^27.4.0"
   }
 }
