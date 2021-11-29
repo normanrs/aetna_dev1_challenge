@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": -105.0655,
+    "lat": 39.8286
+  },
+  "weather": [
+    {
+      "id": 802,
+      "main": "Clouds",
+      "description": "scattered clouds",
+      "icon": "03d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 69.6,
+    "feels_like": 67.3,
+    "temp_min": 60.15,
+    "temp_max": 74.52,
+    "pressure": 1003,
+    "humidity": 22
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1.01,
+    "deg": 170,
+    "gust": 4
+  },
+  "clouds": {
+    "all": 40
+  },
+  "dt": 1638211091,
+  "sys": {
+    "type": 2,
+    "id": 2004233,
+    "country": "US",
+    "sunrise": 1638194457,
+    "sunset": 1638229012
+  },
+  "timezone": -25200,
+  "id": 0,
+  "name": "Arvada",
+  "cod": 200
+}

@@ -8,7 +8,9 @@
     "test": "test"
   },
   "scripts": {
-    "test": "jest"
+    "test": "npm run unit",
+    "unit": "jest --verbose test/unit",
+    "integration": "jest --verbose --runInBand --testTimeout=30000 test/integration"
   },
   "repository": {
     "type": "git",
