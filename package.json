@@ -1,0 +1,26 @@
+{
+  "name": "aetna_dev1_challenge",
+  "version": "1.0.0",
+  "description": "Aetna dev level 1 challenge",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normanrs/aetna_dev1_challenge.git"
+  },
+  "author": "N. Schultz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/normanrs/aetna_dev1_challenge/issues"
+  },
+  "homepage": "https://github.com/normanrs/aetna_dev1_challenge#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
