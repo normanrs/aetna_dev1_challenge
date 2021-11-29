@@ -7,4 +7,9 @@ app.get('/', (req, res) => {
     res.send('Hellueee World');
 });
 
+app.get('/local/:zipcode', (req, res) => {
+    console.log(req.params.zipcode);
+    res.send(req.params.zipcode);
+});
+
 app.listen(port, () => console.log(`Listening on port ${port}`))
